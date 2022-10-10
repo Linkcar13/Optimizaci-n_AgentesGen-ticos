@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#netbeans ignore personal stuff
+nbproject/
+
 # Log file
 *.log
 
